@@ -1,6 +1,23 @@
 {
+  "name": "syw.in.net",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamaranis/Syw.in.Net.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamaranis/Syw.in.Net/issues"
+  },
+  "homepage": "https://github.com/Kamaranis/Syw.in.Net#readme",
   "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-markdown-it": "^0.1.1"
+    "bootstrap-icons": "^1.7.2"
   }
 }
