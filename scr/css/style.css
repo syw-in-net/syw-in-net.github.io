@@ -433,7 +433,7 @@ a:hover {
 }
 
 a:active {
-  color: #ffffff;
+  color: #1d1b1b;
   background-color: transparent;
 }
 
@@ -458,5 +458,5 @@ b.transform {
   /* -ms- transform: rotate(7deg);
   -webkit-transfor: rotate(7deg);
   .transform: rotate(37deg); */
-  margin-top: -300px;
-}
+  /* margin-top: -300px;
+} */
