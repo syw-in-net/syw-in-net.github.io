@@ -12,3 +12,12 @@ node_modules
 
 # Ignore SASS config files
 .sass-cache
+
+# VS files
+.vscode
+
+#GULP files
+gulpfile.js
+
+#keys
+key
